@@ -67,4 +67,8 @@ HousingApp::Application.routes.draw do
   get "explore/FourteenCWarren"
 
   get "explore/HighRise"
+
+  get "explore/ButtB"
+
+  get "welcome/index1"
 end
